@@ -2,7 +2,7 @@
 
 Upload PDFs, Word docs, or text files and ask questions — get cited, streaming answers powered by GPT-4o and a full RAG pipeline.
 
-![Demo](docs/demo.gif)
+
 
 ---
 
